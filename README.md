@@ -10,6 +10,7 @@
 - 📱 I develop mostly on **mobile** using **Termux** — yes, even full Discord bots!
 - 🧪 I love experimenting with All-in-One solutions (1 file, 100 features)
 - 🧱 Currently exploring **Fabric modding** and building useful tools
+- 🇹🇭 Based in **Thailand**
 
 ---
 
